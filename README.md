@@ -48,7 +48,7 @@ A simple, CLI-based application to help you build and maintain daily and weekly 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/habit-tracker-app.git
+   git clone https://github.com/davidpython2025/Habit_Tracker_Project
    cd habit-tracker-app
    ```
 2. (Optional) Create a virtual environment:
